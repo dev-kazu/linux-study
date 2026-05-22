@@ -9,7 +9,7 @@ if age >= 20:
     print("You are an adult.")
 else:
     print("You are a minor.")
-while true:
+while True:
     command = input("Enter a command (type 'exit' to quit):")
     if command == "exit":
         print("Exiting the program.")
